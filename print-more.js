@@ -1,0 +1,1 @@
+console.log("this function is there to print values in bulk");
