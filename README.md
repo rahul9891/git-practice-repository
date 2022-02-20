@@ -2,3 +2,5 @@
 This is a practice repository for Git tutorial
 
 This line was udpated manually dureing conflict resolution.
+
+cherry pick added
